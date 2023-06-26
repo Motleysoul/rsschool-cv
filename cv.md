@@ -24,6 +24,7 @@ Organization Management
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * HTML Academy Frontend Developer (in progress)
 ## About me
+Development is my calling that I finally found.
 ## Code example
 ```
 const convertText = (words) => {
