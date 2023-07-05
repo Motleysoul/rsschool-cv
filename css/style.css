@@ -1,5 +1,7 @@
 .page-body {
     width: 820px;
+    min-height: 100vh;
+    padding: 0;
     margin: 40px auto;
     font-family: 'Kaisei Tokumin', serif;
     font-size: 20px;
@@ -33,6 +35,9 @@
     padding: 20px 40px;
 }
 
+.list-item{
+    padding: 5px;
+}
 .link {
     color: #000000;
     text-decoration: none;
